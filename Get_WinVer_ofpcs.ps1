@@ -29,4 +29,4 @@ else
 }
 
 #write output into an excelfile 
-$output | Export-Excel -Path C:\temp\windreamwinver.xlsx
+$output | Export-Excel -Path C:\temp\output.xlsx
